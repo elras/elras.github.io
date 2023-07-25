@@ -1,4 +1,4 @@
 ## Sabri 'Elras' Bolkar  
-Computer vision researcher & engineer
+Machine learning researcher & engineer
 
-Template from Zhuang Liu
+Template for the page is from Zhuang Liu
