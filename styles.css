@@ -70,6 +70,29 @@ p {
   margin: auto;
 }
 
+/* Group the photo on the left with the name and contact details beside it. */
+.profile-header {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 24px;
+  margin-bottom: 24px;
+  text-align: left;
+}
+
+.profile-details {
+  min-width: 0;
+}
+
+.article-entry .profile-photo {
+  flex: 0 0 auto;
+  width: 200px;
+  max-width: 28%;
+  height: auto;
+  margin: 0;
+  border-radius: 6px;
+}
+
 /* Use a single font family with a clear name and section hierarchy. */
 .section-title {
   margin: 0 0 15px;
